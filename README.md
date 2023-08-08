@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Verma</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevelopers.giphy.com%2Fdocs%2Fapi%2F&psig=AOvVaw2aXPimrHef1FABL_P49Dbs&ust=1691584814718000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDKvdCKzYADFQAAAAAdAAAAABAr"/>
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamverma72&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamverma72" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamverma72" alt="sakshamverma72" /></a> </p>
