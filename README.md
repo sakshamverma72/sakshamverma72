@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamverma72" alt="sakshamverma72" /></a> </p>
 
-- 🌱 I’m currently learning **Core java, spring framework, hibernate, maven**
+- 🌱 I have learnt **Spring Boot** along with **Core Java, Spring Framework, Hibernate, and Maven**  
 
-- 👯 I’m looking to collaborate on **Java and Spring related projects**
+- 👯 I’m looking to collaborate on **Java and Spring Boot related projects**
 
 - 👨‍💻 All of my projects are available at [https://sakshamverma72.github.io/](https://sakshamverma72.github.io/)
 
-- 💬 Ask me about **Core java, spring framework, hibernate, maven**
+- 💬 Ask me about **Spring Boot, Core java, spring framework, hibernate, maven, Mysql**
 
 - 📫 How to reach me **sakshamverma72@gmail.com**
 
